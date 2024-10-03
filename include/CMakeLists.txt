@@ -1,0 +1,18 @@
+target_sources(${EXC_OUT}
+    PRIVATE
+        ActionInitialization.hh
+        Analysis.hh
+        ConfigCustomization.hh
+        CrystalHit.hh
+        CrystalSensitiveDetector.hh
+        DetectorConstruction.hh
+        EventAction.hh
+        GlobalConfigs.hh
+        PhysicsList.hh
+        PrimaryGeneratorAction.hh
+        RunAction.hh
+        SiHit.hh
+        SiSensitiveDetector.hh
+        SteppingAction.hh
+        VirtualHit.hh
+)

@@ -1,0 +1,19 @@
+/gps/particle gamma
+
+/gps/pos/centre 0 2 0 cm
+
+/gps/pos/type Beam
+/gps/pos/shape Circle
+/gps/pos/radius .2 cm
+/gps/pos/sigma_r 1. mm
+
+/gps/direction 0 -1 0 
+
+/gps/ene/type Lin
+/gps/ene/min 1 keV
+/gps/ene/max 200 keV
+/gps/ene/intercept 1
+/gps/ene/sigma 10 keV
+/run/beamOn 200
+
+
