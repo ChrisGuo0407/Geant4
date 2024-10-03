@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/impress2-grips.dir/main.cc.o"
+  "CMakeFiles/impress2-grips.dir/main.cc.o.d"
+  "CMakeFiles/impress2-grips.dir/src/ActionInitialization.cc.o"
+  "CMakeFiles/impress2-grips.dir/src/ActionInitialization.cc.o.d"
+  "CMakeFiles/impress2-grips.dir/src/Analysis.cc.o"
+  "CMakeFiles/impress2-grips.dir/src/Analysis.cc.o.d"
+  "CMakeFiles/impress2-grips.dir/src/CrystalHit.cc.o"
+  "CMakeFiles/impress2-grips.dir/src/CrystalHit.cc.o.d"
+  "CMakeFiles/impress2-grips.dir/src/CrystalSensitiveDetector.cc.o"
+  "CMakeFiles/impress2-grips.dir/src/CrystalSensitiveDetector.cc.o.d"
+  "CMakeFiles/impress2-grips.dir/src/DetectorConstruction.cc.o"
+  "CMakeFiles/impress2-grips.dir/src/DetectorConstruction.cc.o.d"
+  "CMakeFiles/impress2-grips.dir/src/EventAction.cc.o"
+  "CMakeFiles/impress2-grips.dir/src/EventAction.cc.o.d"
+  "CMakeFiles/impress2-grips.dir/src/GlobalConfigs.cc.o"
+  "CMakeFiles/impress2-grips.dir/src/GlobalConfigs.cc.o.d"
+  "CMakeFiles/impress2-grips.dir/src/Materials.cc.o"
+  "CMakeFiles/impress2-grips.dir/src/Materials.cc.o.d"
+  "CMakeFiles/impress2-grips.dir/src/PhysicsList.cc.o"
+  "CMakeFiles/impress2-grips.dir/src/PhysicsList.cc.o.d"
+  "CMakeFiles/impress2-grips.dir/src/PrimaryGeneratorAction.cc.o"
+  "CMakeFiles/impress2-grips.dir/src/PrimaryGeneratorAction.cc.o.d"
+  "CMakeFiles/impress2-grips.dir/src/RunAction.cc.o"
+  "CMakeFiles/impress2-grips.dir/src/RunAction.cc.o.d"
+  "CMakeFiles/impress2-grips.dir/src/SiHit.cc.o"
+  "CMakeFiles/impress2-grips.dir/src/SiHit.cc.o.d"
+  "CMakeFiles/impress2-grips.dir/src/SiSensitiveDetector.cc.o"
+  "CMakeFiles/impress2-grips.dir/src/SiSensitiveDetector.cc.o.d"
+  "CMakeFiles/impress2-grips.dir/src/SteppingAction.cc.o"
+  "CMakeFiles/impress2-grips.dir/src/SteppingAction.cc.o.d"
+  "CMakeFiles/impress2-grips.dir/src/VirtualHit.cc.o"
+  "CMakeFiles/impress2-grips.dir/src/VirtualHit.cc.o.d"
+  "impress2-grips"
+  "impress2-grips.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/impress2-grips.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()
